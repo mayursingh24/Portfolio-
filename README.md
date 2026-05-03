@@ -44,7 +44,6 @@ This portfolio is my first step towards showcasing my work and growth.
 📞 Contact
 
 - 📧 Email: mayur4singhhh@gmail.com
-- 📱 Phone: 6306437348
 - 💼 LinkedIn: https://www.linkedin.com/in/mayursingh24
 
 ---
